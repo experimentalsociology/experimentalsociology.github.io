@@ -64,16 +64,17 @@ sub{
     line-height: 0;
 }
 table{
-    width: 1000px;
     margin: 12px auto 24px auto;
     float: center;
+    border-collapse: separate;
+    table-layout: fixed;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
     /*border: 1px solid black;*/
 }
 th,td{
     text-align: left;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
-    /*border: 1px solid black;*/
+    /* border: 1px solid black; */
 }
 
 /* Website Banner */
