@@ -42,8 +42,8 @@ a.current{color: #cfe2f3;}
 a.current:hover{color: #6fa8dc;}
 a:hover{color: #cfe2f3;}
 a:active{color:#f44336;}
-h1,h2,h3,h4{clear:left; color: #FF8C00; margin:1.5em 0em 1em 0em; font-family:'Lato',serif; text-shadow: 1px 1px 2px #d0d0d0;}
-h1{font-size:2.67em;}
+h1,h2,h3,h4{clear:left; color: #778ac9; margin:1.5em 0em 1em 0em; font-family:'Lato',serif; text-shadow: 1px 1px 2px #d0d0d0;}
+h1{font-size:2.37em;}
 h2{font-size:2.00em;}
 h3{font-size:1.67em;}
 h4{font-size:1.33em;}
