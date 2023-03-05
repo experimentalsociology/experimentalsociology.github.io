@@ -41,7 +41,7 @@ a{color: #9A0000; text-decoration:none;}
 a.current{color: #2d619c;}
 a.current:hover{color: #2c6394;}
 a:hover{color: #2d619c;}
-a:active{color:#f44336;}
+a:active{color:##FF7377;}
 h1,h2,h3,h4{clear:left; color: #9A0000; margin:1.5em 0em 1em 0em; font-family:'Lato',sans-serif;}
 h1{font-size:2.37em;}
 h2{font-size:2.00em;}
@@ -83,9 +83,9 @@ th,td{
 .bottom-right {font-size:2.33em; color: #b2132e; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 5px #000000;-webkit-text-stroke: 0.75px #505050}
 
 /* Conference Title Logo */
-.title1{color: #52739e; text-shadow: 1px 1px 3px #c0c0c0;} 
-.title2{color: #52739e; text-shadow: 1px 1px 3px #c0c0c0;}
-.year{color: #505050; font-size:0.67em; font-weight: lighter;}
+.title1{color: ##FF7377; text-shadow: 1px 1px 3px #c0c0c0;} 
+.title2{color: ##FF7377; text-shadow: 1px 1px 3px #c0c0c0;}
+.year{color: ##FF7377; font-size:0.67em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:800px;}
