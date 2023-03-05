@@ -37,18 +37,18 @@ body{
     width: 1000px;
 }
 
-a{color: #00489A; text-decoration:none;}
+a{color: #9A0000; text-decoration:none;}
 a.current{color: #2d619c;}
 a.current:hover{color: #2c6394;}
 a:hover{color: #2d619c;}
 a:active{color:#f44336;}
-h1,h2,h3,h4{clear:left; color: #00489A; margin:1.5em 0em 1em 0em; font-family:'Lato',sans-serif;}
+h1,h2,h3,h4{clear:left; color: #9A0000; margin:1.5em 0em 1em 0em; font-family:'Lato',sans-serif;}
 h1{font-size:2.37em;}
 h2{font-size:2.00em;}
 h3{font-size:1.67em;}
 h4{font-size:1.33em;}
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
-li a, p a {text-decoration:underline; text-decoration-color:##00489A;}
+li a, p a {text-decoration:underline; text-decoration-color:##9A0000;}
 ul{list-style:none; margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
 ul li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
