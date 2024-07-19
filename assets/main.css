@@ -28,7 +28,7 @@ body{
    background-color:white;
     background-size: cover;
     background-attachment: fixed;
-    color: #00459a; 
+    color: #fafafa; 
     text-align:justify;
     font-family:'Lato',sans-serif;
     font-size:1em;
@@ -37,11 +37,11 @@ body{
     width: 1000px;
 }
 
-a{color: #00459a; text-decoration:none;}
-a.current{color: #00459a;}
-a.current:hover{color: #00459a;}
-a:hover{color: #00459a;}
-a:active{color:#00459a;}
+a{color: #080707; text-decoration:none;}
+a.current{color: #080707;}
+a.current:hover{color: #080707;}
+a:hover{color: #080707;}
+a:active{color:#080707;}
 h1,h2,h3,h4{clear:left; color: #00459a; margin:1.5em 0em 1em 0em; font-family:'Lato',sans-serif;}
 h1{font-size:2.37em;}
 h2{font-size:2.00em;}
