@@ -398,6 +398,10 @@
       .task-grid { grid-template-columns: 1fr; }
       .condition-grid { grid-template-columns: 1fr; }
     }
+
+    @media (max-width: 720px) {
+      .inaugural-hero { padding: 44px 0 32px; }
+    }
   </style>
 </head>
 <body>
@@ -413,6 +417,8 @@
           </div>
           <span class="badge">2026</span>
         </div>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-input">
+        <label for="nav-toggle" class="nav-hamburger" aria-label="Open navigation"><span></span><span></span><span></span></label>
         <nav class="nav-links">
           <a href="../index.html">Home</a>
           <a href="../join/index.html">Join the SSA</a>
@@ -590,7 +596,7 @@
 
       <div class="container">
         <div class="inaugural-pill">SSA Inaugural Project &nbsp;·&nbsp; Open Call &nbsp;·&nbsp; 2026</div>
-        <h1>How contagious are violations of the honesty norm?</h1>
+        <h1>How contagious and detrimental are violations of the honesty norm?</h1>
         <p class="inaugural-study-title">
           The SSA members selected the following experimental study through a peer-reviewed voting process. It is a multi-lab study on the influence of expected and witnessed dishonesty on the truthful
           reporting of windfall gains and on trust
